@@ -75,7 +75,7 @@ $query_builder = true;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localhost',
+    'hostname' => 'localhost:3306',
     'username' => 'root',
     'password' => '',
     'database' => 'learnify',
@@ -94,3 +94,5 @@ $db['default'] = array(
     'failover' => array(),
     'save_queries' => true,
 );
+
+
