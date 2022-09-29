@@ -75,10 +75,10 @@ $query_builder = true;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localhost:3306',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'learnify',
+    'hostname' => 'sql301.epizy.com',
+    'username' => 'epiz_32685328',
+    'password' => 'AP8DXqrm4XQA4',
+    'database' => 'epiz_32685328_learnify',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => false,
