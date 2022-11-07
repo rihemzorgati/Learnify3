@@ -26,7 +26,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: Learnify3    # set this to your application's name
-  AZURE_WEBAPP_PACKAGE_PATH: 'https://learnify.azurewebsites.net/'      # set this to the path to your web app project, defaults to the repository root
+  AZURE_WEBAPP_PACKAGE_PATH: 'learnify.azurewebsites.net'      # set this to the path to your web app project, defaults to the repository root
   PHP_VERSION: '7.x'                  # set this to the PHP version to use
 
 permissions:
